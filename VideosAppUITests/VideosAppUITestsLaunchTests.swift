@@ -1,13 +1,13 @@
 //
-//  Videos_AppUITestsLaunchTests.swift
-//  Videos-AppUITests
+//  VideosAppUITestsLaunchTests.swift
+//  VideosAppUITests
 //
-//  Created by Akshu on 07/08/24.
+//  Created by Akshu on 04/08/24.
 //
 
 import XCTest
 
-final class Videos_AppUITestsLaunchTests: XCTestCase {
+final class VideosAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

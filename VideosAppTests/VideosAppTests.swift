@@ -1,14 +1,14 @@
 //
-//  Videos_AppTests.swift
-//  Videos-AppTests
+//  VideosAppTests.swift
+//  VideosAppTests
 //
-//  Created by Akshu on 07/08/24.
+//  Created by Akshu on 04/08/24.
 //
 
 import XCTest
-@testable import Videos_App
+@testable import VideosApp
 
-final class Videos_AppTests: XCTestCase {
+final class VideosAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
